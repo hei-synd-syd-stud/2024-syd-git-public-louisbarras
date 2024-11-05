@@ -42,4 +42,24 @@ checkout main : le répertoire est mis a jour, le dernier changement est re ajou
 
 ### Task 7
 
+1. nom de la branche , indiquée active
+   
+   2.  idantifiant unique du dernier commit abrégé
+   
+   3. description :  branch jaune merge avec branch bleu
+   
+   4.  auteur du commit
+   
+   5. desigantion de la version du main
+   
+   6. dernier commit réalisé
+   
+   7. commit réalisé par quelqu'un d'autre
+   
+   8. commit du main 
+   
+   9. tout les commit dans la branch develop 
+   
+   10. les commits sur la branch main
+
 ![Gitgraph](img/gitgraph.svg)
