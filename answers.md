@@ -34,7 +34,9 @@ message du commit, description des changements
 
 ### Task 6
 
+checkout initial commit : les commit executés aprés sont temporairement cachés (dans une autre branch )
 
+checkout main : le répertoire est mis a jour, le dernier changement est re ajouté au commit
 
 ## Gitgraph
 
